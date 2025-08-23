@@ -4,7 +4,8 @@ This is a simple implementation of a 2D space shooter game made in Unity 2D.
 
 ## Resources
 
-The resources used in this game were from the **Kennedy Resource Pack**.
+The resources used in this game were from the **Kenney Resource Pack**.
+https://kenney.nl/assets
 
 ## Gameplay
 
